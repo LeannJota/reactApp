@@ -1,2 +1,4 @@
-# reactApp
-React repo
+#  Instruções para inicialização
+
+
+Oi
